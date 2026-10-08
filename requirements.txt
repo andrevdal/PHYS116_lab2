@@ -1,6 +1,6 @@
 numpy
 matplotlib
 scipy
-os
-pickle
 sounddevice
+jupyterlab
+ipykernel
